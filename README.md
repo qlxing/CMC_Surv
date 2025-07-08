@@ -9,7 +9,7 @@ in ICI Treated NSCLC Patients
 
 
 <p align="center">
-    <img src="pipeline.png" width="100%" height="100%">
+    <img src="pipeline.png">
 </p>
 
 During pretraining, both intact and masked versions of each modality are input
